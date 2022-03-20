@@ -15,9 +15,14 @@ export default {
       type: "string",
     },
     {
-      name: "motor_hp",
+      name: "motorHp",
       title: "Motor (HP)",
       type: "number",
+    },
+    {
+      name: "website",
+      title: "Website",
+      type: "url",
     },
   ],
 };
