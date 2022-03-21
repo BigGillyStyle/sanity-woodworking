@@ -1,6 +1,7 @@
 import voltages from "./voltages";
 import bandsawBlades from "./bandsawBlades";
 import bandsawGuides from "./bandsawGuides";
+import toolTypes from "./toolTypes";
 
 export default {
   name: "bandsaw",
@@ -149,6 +150,15 @@ export default {
       type: "boolean",
       layout: "checkbox",
       initialValue: true,
+      validation: (Rule) => Rule.required(),
+    },
+    {
+      name: "toolType",
+      title: "Tool Type",
+      type: "string",
+      options: {
+        list: [...toolTypes],
+      },
       validation: (Rule) => Rule.required(),
     },
   ],
