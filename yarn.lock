@@ -1324,7 +1324,7 @@
 
 "@sanity/core@^2.30.5":
   version "2.30.5"
-  resolved "https://registry.npmjs.org/@sanity/core/-/core-2.30.5.tgz#1635d9bdd293b978d7bc7c35d7accbb6f394fb5d"
+  resolved "https://registry.yarnpkg.com/@sanity/core/-/core-2.30.5.tgz#1635d9bdd293b978d7bc7c35d7accbb6f394fb5d"
   integrity sha512-FPMEY9wbWKsols1/AvyUKVhP3bIpQC6AcWwhKNbBm8Mjd4jjfkKIYDdUs/vhoMBkrZrA0LK+okVCUnWWVubVIg==
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.10.4"
