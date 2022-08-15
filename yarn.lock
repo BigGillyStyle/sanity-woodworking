@@ -1424,7 +1424,7 @@
 
 "@sanity/default-login@^2.30.5":
   version "2.30.5"
-  resolved "https://registry.npmjs.org/@sanity/default-login/-/default-login-2.30.5.tgz#0e360fce6f689d2d3702cf4b11a7898f8055d5c5"
+  resolved "https://registry.yarnpkg.com/@sanity/default-login/-/default-login-2.30.5.tgz#0e360fce6f689d2d3702cf4b11a7898f8055d5c5"
   integrity sha512-JA5Bz6iKNKVFqZrfm1BmRHMxdtsdZeMZkFBhOY6qhBAbzelpCpFoQyvIUweY5BIVmBMtKlxNrPwmC3BN67Ut+w==
   dependencies:
     "@sanity/base" "2.30.5"
