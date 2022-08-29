@@ -1877,7 +1877,7 @@
 
 "@sanity/vision@^2.31.1":
   version "2.31.1"
-  resolved "https://registry.npmjs.org/@sanity/vision/-/vision-2.31.1.tgz#f73a009dbb100b27620d11273ece118840f6f3ec"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-2.31.1.tgz#f73a009dbb100b27620d11273ece118840f6f3ec"
   integrity sha512-lyrPI5D1MqShlS+sWy7YOESAz99hrHmScfT7IC96krmq3G7ID/Yfb1soLlAiSI7wvM1vcdPJGM/9ria/xRQs2Q==
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
