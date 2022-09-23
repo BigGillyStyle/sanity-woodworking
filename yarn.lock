@@ -1420,7 +1420,7 @@
 
 "@sanity/default-layout@^2.33.3":
   version "2.33.3"
-  resolved "https://registry.npmjs.org/@sanity/default-layout/-/default-layout-2.33.3.tgz#158c950f0546611499225349478d0cd1ff78ef92"
+  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.33.3.tgz#158c950f0546611499225349478d0cd1ff78ef92"
   integrity sha512-dDjsTZG/2gvd6s0oTDZU2PRVHq5EcBHSKgiHZ78I8UWyz2JxEVUbPh11RJddzOzZPESx+x/ORB04+t92h2yAaw==
   dependencies:
     "@portabletext/react" "^1.0.0"
