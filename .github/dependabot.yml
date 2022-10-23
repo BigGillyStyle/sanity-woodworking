@@ -9,10 +9,16 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
+      day: "Saturday"
+      time: "03:00"
+      timezone: "US/Mountain"
 
   # Maintain dependencies for npm
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
+      day: "Saturday"
+      time: "03:00"
+      timezone: "US/Mountain"
