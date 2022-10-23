@@ -1449,7 +1449,7 @@
 
 "@sanity/desk-tool@^2.35.0":
   version "2.35.0"
-  resolved "https://registry.npmjs.org/@sanity/desk-tool/-/desk-tool-2.35.0.tgz#d2f85ca1ae1d51cdd852a816b724a7d84dff1d56"
+  resolved "https://registry.yarnpkg.com/@sanity/desk-tool/-/desk-tool-2.35.0.tgz#d2f85ca1ae1d51cdd852a816b724a7d84dff1d56"
   integrity sha512-CTKHEwwhZqX7Ln736WgCtDTtkWneXVlrIy975nsXLTyW6Pjru/jBEJhmThIzM7DXwcdr/qs9fQ96HQ/gvv/gXw==
   dependencies:
     "@reach/auto-id" "^0.13.2"
