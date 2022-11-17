@@ -1229,7 +1229,7 @@
 
 "@sanity/base@2.35.2", "@sanity/base@^2.35.2":
   version "2.35.2"
-  resolved "https://registry.npmjs.org/@sanity/base/-/base-2.35.2.tgz#d0a34918cdc5d7c9dbeabe8ba75eced2bf42985f"
+  resolved "https://registry.yarnpkg.com/@sanity/base/-/base-2.35.2.tgz#d0a34918cdc5d7c9dbeabe8ba75eced2bf42985f"
   integrity sha512-2pSRf72Zk/wqF4rrgFivhRM476z5xCSxCCpP5xtJ8sddTxTS77sy4eRTmHplC183+v99RXZIfh0QWXapv5pMJg==
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
