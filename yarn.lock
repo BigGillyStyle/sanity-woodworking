@@ -1412,7 +1412,7 @@
 
 "@sanity/default-layout@^2.35.2":
   version "2.35.2"
-  resolved "https://registry.npmjs.org/@sanity/default-layout/-/default-layout-2.35.2.tgz#2eff40810127ac2ddce2bd78dfdeb15095b07186"
+  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.35.2.tgz#2eff40810127ac2ddce2bd78dfdeb15095b07186"
   integrity sha512-S6pkmdsxIKIotx/wgEPMrqPY3rYd6cK/e73BX2m6gSvAJ2LjPbbT0lPsJMlCnLbSSk5QpOVK1VhbOsczHs+6Nw==
   dependencies:
     "@portabletext/react" "^1.0.0"
