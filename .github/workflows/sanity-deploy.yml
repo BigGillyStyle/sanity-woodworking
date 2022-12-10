@@ -1,0 +1,24 @@
+name: Sanity Deploy
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  deploy:
+    name: Deploy Sanity Studio
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      name: Checkout code
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version-file: .nvmrc
+        cache: 'npm'
+    - run: npm ci
+      name: Install dependencies
+    - run: npm run deploy
+      name: Deploy
