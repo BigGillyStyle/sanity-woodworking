@@ -6,6 +6,10 @@
   "main": "package.json",
   "author": "Andy Pickler <andy.pickler@gmail.com>",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "18.12.1",
+    "npm": "8.19.2"
+  },
   "scripts": {
     "dev": "sanity dev",
     "start": "sanity start",
