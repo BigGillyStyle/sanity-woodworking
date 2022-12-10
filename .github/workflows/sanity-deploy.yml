@@ -22,3 +22,5 @@ jobs:
       name: Install dependencies
     - run: npm run deploy
       name: Deploy
+      env:
+        SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
