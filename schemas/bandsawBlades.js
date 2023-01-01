@@ -23,4 +23,4 @@ export default [
     title: '1"',
     value: 1,
   },
-];
+]

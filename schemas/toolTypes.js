@@ -1,10 +1,10 @@
 export default [
   {
-    title: "Bandsaw",
-    value: "bandsaw",
+    title: 'Bandsaw',
+    value: 'bandsaw',
   },
   {
-    title: "Table Saw",
-    value: "tableSaw",
+    title: 'Table Saw',
+    value: 'tableSaw',
   },
-];
+]
