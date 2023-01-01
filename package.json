@@ -1,10 +1,15 @@
 {
   "name": "@woodtoolsearch/sanity",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sanity Studio for woodtoolsearch.com",
   "main": "package.json",
   "author": "Andy Pickler <andy.pickler@gmail.com>",
   "license": "ISC",
+  "homepage": "https://woodworking.sanity.studio/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BigGillyStyle/sanity-woodworking.git"
+  },
   "engines": {
     "node": "18.12.1",
     "npm": "8.19.2"
