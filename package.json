@@ -11,8 +11,8 @@
     "url": "https://github.com/BigGillyStyle/sanity-woodworking.git"
   },
   "engines": {
-    "node": "18.14.1",
-    "npm": "^9.3.1"
+    "node": "18.14.2",
+    "npm": "^9.5.0"
   },
   "scripts": {
     "dev": "sanity dev",
